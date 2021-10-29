@@ -1,0 +1,63 @@
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\Ej2r.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\Ej2r.pdb
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\Newtonsoft.Json.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Net.Http.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Net.Http.Formatting.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Net.Http.WebRequest.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.Helpers.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.Http.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.Http.WebHost.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.Mvc.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.Razor.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.WebPages.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.WebPages.Razor.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\Newtonsoft.Json.xml
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Net.Http.xml
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Net.Http.Formatting.xml
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Net.Http.WebRequest.xml
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.Helpers.xml
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.Http.xml
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.Http.WebHost.xml
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.Mvc.xml
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.Razor.xml
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.WebPages.xml
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\bin\System.Web.WebPages.Razor.xml
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\obj\Debug\Ej2r.csprojResolveAssemblyReference.cache
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\obj\Debug\Ej2r.dll
+C:\Users\cbertolani\Documents\Visual Studio 2010\Projects\Ej2r\Ej2r\obj\Debug\Ej2r.pdb
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\Ej2r.dll.config
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\Ej2r.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\Ej2r.pdb
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\Newtonsoft.Json.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Net.Http.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Net.Http.Formatting.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Net.Http.WebRequest.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.Helpers.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.Http.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.Http.WebHost.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.Mvc.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.Razor.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.WebPages.Deployment.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.WebPages.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.WebPages.Razor.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\Newtonsoft.Json.xml
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Net.Http.xml
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Net.Http.Formatting.xml
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Net.Http.WebRequest.xml
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.Helpers.xml
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.Http.xml
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.Http.WebHost.xml
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.Mvc.xml
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.Razor.xml
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.WebPages.xml
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.WebPages.Deployment.xml
+C:\Users\camil\Desktop\Ej2r\Ej2r\bin\System.Web.WebPages.Razor.xml
+C:\Users\camil\Desktop\Ej2r\Ej2r\obj\Debug\Ej2r.csprojAssemblyReference.cache
+C:\Users\camil\Desktop\Ej2r\Ej2r\obj\Debug\Ej2r.csproj.CoreCompileInputs.cache
+C:\Users\camil\Desktop\Ej2r\Ej2r\obj\Debug\Ej2r.csproj.CopyComplete
+C:\Users\camil\Desktop\Ej2r\Ej2r\obj\Debug\Ej2r.dll
+C:\Users\camil\Desktop\Ej2r\Ej2r\obj\Debug\Ej2r.pdb

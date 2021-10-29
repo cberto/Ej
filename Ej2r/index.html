@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title>Ejercicio 2</title>
+         <script src="https://code.jquery.com/jquery-1.12.0.min.js" type="text/javascript"></script>
+         <script  type="text/javascript" src="app.js" ></script>
+         <script type="text/javascript" src="dataHelper.js"></script>
+         <link rel="Stylesheet" type="text/css" href="style.css" />
+    </head>
+    <body>
+
+    <div id="formulario">
+          
+        <form id="formdata"  action=''>
+    <div class="conta" style="display: none;">  </div>
+
+    <div>
+        <label>Nombre:</label>
+        <input id="nombre" name='nombre' type='text' class='nombre' value=''placeholder="Pepe" required="required"/>
+    </div>
+    <div>
+        <label>Apellido:</label>
+        <input type="text" name="apellidos" id="apellidos" required="required" placeholder="Rodriguez" />
+    </div>
+    <div>
+        <label for="edad"> Edad:</label>
+            <input id="edad" type= "text" name="edad" value=""  placeholder="20"  required="required" />
+    </div>
+     <div>
+        <label>DNI:</label>
+           <input type="text" name="dni" id="dni" value="" title="Introduce DNI" accesskey="d" maxlength="16" size="16"  required="required" />
+    </div>
+
+    <div>
+        <label> Email:</label>
+            <input id="email" name="usermail" type="email" value="" placeholder="example@gmail.com"  required="required" />
+     </div>
+    
+
+    <div>
+        <input id="boton" type="button" onclick="enviarFormulario()" value="Envia Mensaje" class="boton" />
+    </div>
+
+
+</form>
+        <div id="conainer"></div>
+</div>
+</body>
+</html>
